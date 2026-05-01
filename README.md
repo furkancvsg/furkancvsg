@@ -32,5 +32,4 @@ Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme dünyasında mod
 ---
 
 ### 📫 İletişim & Bağlantılar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancavusoglu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkancavusoglu@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/furkan-çavuşoğlu-b972112bb/)
